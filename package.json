@@ -1,0 +1,14 @@
+{
+  "name": "youtubevideograber",
+  "version": "1.0.0",
+  "description": "Get the minimum info from each video of from a chanel to embed videos",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Anthony Cavuoti",
+  "license": "ISC",
+  "dependencies": {
+    "puppeteer": "^10.2.0"
+  }
+}
